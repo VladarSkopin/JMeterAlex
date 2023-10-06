@@ -11,7 +11,7 @@
     </TestPlan>
     <hashTree>
       <CSVDataSet guiclass="TestBeanGUI" testclass="CSVDataSet" testname="CSV Data Set Config" enabled="true">
-        <stringProp name="filename">D:/QA/jmeter_projects/links.csv</stringProp>
+        <stringProp name="filename">test_files/links.csv</stringProp>
         <stringProp name="fileEncoding"></stringProp>
         <stringProp name="variableNames">link</stringProp>
         <boolProp name="ignoreFirstLine">false</boolProp>
